@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971122412027",
+    "project_id": "docxon",
+    "storage_bucket": "docxon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971122412027:android:92ff7bea55cc3c1a53235e",
+        "android_client_info": {
+          "package_name": "com.example.docoradi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971122412027-2nobpkdb2bkh1u1opqu4n1oct8tj2ui5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0lh3BVoU3oRZRKQLoKYcsSLKebnY3GPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971122412027-2nobpkdb2bkh1u1opqu4n1oct8tj2ui5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
